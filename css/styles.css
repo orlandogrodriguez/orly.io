@@ -1,0 +1,26 @@
+.row-nav-home {
+    height: 25%;
+}
+
+.row-nav-sections {
+    height: 50%;
+}
+
+.row-nav-contact {
+    height: 25%
+}
+
+html, body, .wrap-full-screen {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.my-nav {
+    background-color: #202020;
+    font-color: #FFFFFF;
+}
+
+.shadow {
+    box-shadow: 2px 0px 10px #888888;
+}
